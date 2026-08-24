@@ -54,14 +54,16 @@ I'm currently working on:
 An AI-powered project focused on providing users with an interactive health-assistance experience.
 
 ---
+<div align="center">
 
 # 🛠️ Tech Stack
 
 </div>
 
 <table width="100%">
-
 <tr>
+
+<!-- Programming Languages -->
 
 <td width="25%" align="center" valign="top">
 
@@ -91,6 +93,7 @@ An AI-powered project focused on providing users with an interactive health-assi
 
 </td>
 
+<!-- Web Development -->
 
 <td width="25%" align="center" valign="top">
 
@@ -120,6 +123,7 @@ An AI-powered project focused on providing users with an interactive health-assi
 
 </td>
 
+<!-- Databases & Cloud -->
 
 <td width="25%" align="center" valign="top">
 
@@ -145,6 +149,7 @@ An AI-powered project focused on providing users with an interactive health-assi
 
 </td>
 
+<!-- Tools -->
 
 <td width="25%" align="center" valign="top">
 
@@ -171,7 +176,7 @@ An AI-powered project focused on providing users with an interactive health-assi
 </td>
 
 </tr>
-
+</table>
 
 ---
 
