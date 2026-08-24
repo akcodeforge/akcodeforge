@@ -38,7 +38,7 @@ B.Tech IT Student • DSA Enthusiast • Full-Stack Developer • Exploring AI/M
 - 🤖 Exploring **AI/ML and intelligent applications**
 - 🚀 Interested in building practical, real-world software
 - 🧠 Always learning and improving through projects and problem solving
-- 🏆 Hackathon enthusiast
+- 🏆 Arjuna 2.0 Hackathon Winner At NIT Agartala
 - 📚 Currently strengthening my DSA and development skills
 
 ---
