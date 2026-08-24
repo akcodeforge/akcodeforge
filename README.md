@@ -32,14 +32,14 @@ B.Tech IT Student • DSA Enthusiast • Full-Stack Developer • Exploring AI/M
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology student
-- 💻 Passionate about **Data Structures & Algorithms**
-- 🌐 Currently learning **Full-Stack Web Development**
-- 🤖 Exploring **AI/ML and intelligent applications**
-- 🚀 Interested in building practical, real-world software
-- 🧠 Always learning and improving through projects and problem solving
-- 🏆 Hackathon enthusiast
-- 📚 Currently strengthening my DSA and development skills
+* 🎓 B.Tech Information Technology student
+* 💻 Passionate about **Data Structures & Algorithms**
+* 🌐 Currently learning **Full-Stack Web Development**
+* 🤖 Exploring **AI/ML and intelligent applications**
+* 🚀 Interested in building practical, real-world software
+* 🧠 Constantly learning through projects and problem solving
+* 🏆 Hackathon enthusiast
+* 📚 Currently strengthening my DSA and development skills
 
 ---
 
@@ -55,55 +55,73 @@ An AI-powered project focused on providing users with an interactive health-assi
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+<table>
+<tr>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</p>
+<td width="25%" align="center">
+
+### 👨‍💻 Programming
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>
+
+</td>
+
+<td width="25%" align="center">
 
 ### 🌐 Web Development
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42"/>
 
-### 🗄️ Databases & Cloud
+</td>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
-</p>
+<td width="25%" align="center">
+
+### 🗄️ Database & Cloud
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" height="42"/>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="42"/>
+
+</td>
+
+<td width="25%" align="center">
 
 ### ⚙️ Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42"/>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" height="42"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akcodeforge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcodeforge&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akcodeforge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcodeforge&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
@@ -111,7 +129,7 @@ An AI-powered project focused on providing users with an interactive health-assi
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akcodeforge&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=akcodeforge&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -124,10 +142,10 @@ An AI-powered project focused on providing users with an interactive health-assi
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akcodeforge&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akcodeforge&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 </p>
 
 ---
@@ -136,13 +154,14 @@ An AI-powered project focused on providing users with an interactive health-assi
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🩺 Health Assistant Chatbot
 
 AI-powered health assistance application designed to provide an interactive user experience.
 
-🔗 **[View Project](https://github.com/akcodeforge/health-assistant-chat-bot)**
+**[🔗 View Project](https://github.com/akcodeforge/health-assistant-chat-bot)**
 
 </td>
 
@@ -152,19 +171,21 @@ AI-powered health assistance application designed to provide an interactive user
 
 AI + IoT based flood monitoring and alert system with predictive analysis.
 
-🔗 **[View Projects](https://github.com/akcodeforge?tab=repositories)**
+**[🔗 View Projects](https://github.com/akcodeforge?tab=repositories)**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🗺️ Jharkhand Tourism Platform
 
 AI-powered tourism platform featuring itinerary planning, chatbot assistance and interactive maps.
 
-🔗 **[View Projects](https://github.com/akcodeforge?tab=repositories)**
+**[🔗 View Projects](https://github.com/akcodeforge?tab=repositories)**
 
 </td>
 
@@ -174,9 +195,10 @@ AI-powered tourism platform featuring itinerary planning, chatbot assistance and
 
 AI-driven self-improvement platform focused on habits, motivation and personal growth.
 
-🔗 **[View Projects](https://github.com/akcodeforge?tab=repositories)**
+**[🔗 View Projects](https://github.com/akcodeforge?tab=repositories)**
 
 </td>
+
 </tr>
 </table>
 
@@ -200,7 +222,7 @@ AI-driven self-improvement platform focused on habits, motivation and personal g
 
 </p>
 
-### 🧩 Topics I'm Practicing
+<p align="center">
 
 `Arrays` • `Strings` • `Sorting` • `Binary Search` • `Two Pointers`
 
@@ -210,16 +232,6 @@ AI-driven self-improvement platform focused on habits, motivation and personal g
 
 `Graphs` • `Segment Trees` • `Prefix Sum` • `Math`
 
----
-
-# 📅 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akcodeforge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akcodeforge&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -227,15 +239,11 @@ AI-driven self-improvement platform focused on habits, motivation and personal g
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akcodeforge/akcodeforge/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akcodeforge&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akcodeforge/akcodeforge/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akcodeforge/akcodeforge/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/akcodeforge/akcodeforge/output/github-snake-dark.svg">
+  </picture>
 </p>
 
 ---
@@ -243,17 +251,19 @@ AI-driven self-improvement platform focused on habits, motivation and personal g
 # 🌟 Let's Connect
 
 <p align="center">
-  <a href="mailto:kmashutosh12kr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
 
-  <a href="https://linkedin.com/in/ashutosh-kumar001">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="mailto:kmashutosh12kr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-  <a href="https://github.com/akcodeforge">
-    <img src="https://img.shields.io/badge/GitHub-akcodeforge-black?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://linkedin.com/in/ashutosh-kumar001">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/akcodeforge">
+  <img src="https://img.shields.io/badge/GitHub-akcodeforge-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
