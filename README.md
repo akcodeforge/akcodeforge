@@ -228,15 +228,6 @@ An AI-powered project focused on providing users with an interactive health-assi
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akcodeforge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcodeforge&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p>
-
----
-
 # 🔥 Contribution Streak & 📅 My GitHub Activity
 
 <p align="center">
@@ -330,14 +321,6 @@ AI-driven self-improvement platform focused on habits, motivation and personal g
 `Greedy` • `Recursion` • `Backtracking` • `Dynamic Programming`
 
 `Graphs` • `Segment Trees` • `Prefix Sum` • `Math`
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akcodeforge/akcodeforge/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
