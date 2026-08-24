@@ -57,6 +57,8 @@ An AI-powered project focused on providing users with an interactive health-assi
 <div align="center">
 <div align="center">
 
+<div align="center">
+
 # 🛠️ Tech Stack
 
 </div>
@@ -64,235 +66,165 @@ An AI-powered project focused on providing users with an interactive health-assi
 <table width="100%">
 <tr>
 
-<!-- ================= PROGRAMMING LANGUAGES ================= -->
+<!-- 💻 PROGRAMMING LANGUAGES -->
 
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="25%" align="center" valign="top">
 
 ### 💻 Programming Languages
 
-<br>
-
 <table width="100%">
 <tr>
-
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C"/>
-<br>
-<sub><b>C</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
+<br><sub><b>C</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
-<br>
-<sub><b>C++</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
+<br><sub><b>C++</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-<br>
-<sub><b>Python</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+<br><sub><b>Python</b></sub>
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-<br>
-<sub><b>JavaScript</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+<br><sub><b>JavaScript</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
-<br>
-<sub><b>TypeScript</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
+<br><sub><b>TypeScript</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-<br>
-<sub><b>Java</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
+<br><sub><b>Java</b></sub>
 </td>
-
 </tr>
 </table>
 
-</div>
-
 </td>
 
-<!-- ================= WEB DEVELOPMENT ================= -->
+<!-- 🌐 WEB DEVELOPMENT -->
 
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🌐 Web Development
 
-<br>
-
 <table width="100%">
 <tr>
-
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-<br>
-<sub><b>HTML5</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
+<br><sub><b>HTML5</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-<br>
-<sub><b>CSS3</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
+<br><sub><b>CSS3</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-<br>
-<sub><b>JavaScript</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+<br><sub><b>JavaScript</b></sub>
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-<br>
-<sub><b>React</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React"/>
+<br><sub><b>React</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-<br>
-<sub><b>Node.js</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
+<br><sub><b>Node.js</b></sub>
 </td>
 
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS"/>
-<br>
-<sub><b>Tailwind CSS</b></sub>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42" alt="Tailwind"/>
+<br><sub><b>Tailwind</b></sub>
 </td>
-
 </tr>
 </table>
 
-</div>
-
 </td>
 
-</tr>
+<!-- 🗄️ DATABASES & CLOUD -->
 
-<tr>
-
-<!-- ================= DATABASES & CLOUD ================= -->
-
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🗄️ Databases & Cloud
 
-<br>
-
 <table width="100%">
 <tr>
-
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
-<br>
-<sub><b>MongoDB</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>
+<br><sub><b>MongoDB</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-<br>
-<sub><b>MySQL</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
+<br><sub><b>MySQL</b></sub>
 </td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase"/>
-<br>
-<sub><b>Firebase</b></sub>
-</td>
-
 </tr>
 
 <tr>
-
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="58" height="48" alt="AWS"/>
-<br>
-<sub><b>AWS</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" height="42" alt="Firebase"/>
+<br><sub><b>Firebase</b></sub>
 </td>
 
-<td></td>
-<td></td>
-
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="42" alt="AWS"/>
+<br><sub><b>AWS</b></sub>
+</td>
 </tr>
 </table>
 
-</div>
-
 </td>
 
-<!-- ================= TOOLS ================= -->
+<!-- ⚙️ TOOLS -->
 
-<td width="50%" valign="top">
-
-<div align="center">
+<td width="25%" align="center" valign="top">
 
 ### ⚙️ Tools
 
-<br>
-
 <table width="100%">
 <tr>
-
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-<br>
-<sub><b>Git</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+<br><sub><b>Git</b></sub>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-<br>
-<sub><b>GitHub</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+<br><sub><b>GitHub</b></sub>
 </td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-<br>
-<sub><b>VS Code</b></sub>
-</td>
-
 </tr>
 
 <tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
+<br><sub><b>VS Code</b></sub>
+</td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
-<br>
-<sub><b>Figma</b></sub>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" height="42" alt="Figma"/>
+<br><sub><b>Figma</b></sub>
 </td>
-
-<td></td>
-<td></td>
-
 </tr>
 </table>
-
-</div>
 
 </td>
 
 </tr>
-
 </table>
+
 
 ---
 
