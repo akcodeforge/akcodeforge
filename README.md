@@ -55,6 +55,7 @@ An AI-powered project focused on providing users with an interactive health-assi
 
 ---
 <div align="center">
+<div align="center">
 
 # 🛠️ Tech Stack
 
@@ -63,119 +64,234 @@ An AI-powered project focused on providing users with an interactive health-assi
 <table width="100%">
 <tr>
 
-<!-- Programming Languages -->
+<!-- ================= PROGRAMMING LANGUAGES ================= -->
 
-<td width="25%" align="center" valign="top">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 💻 Programming Languages
 
 <br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" title="C"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" title="C++"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Python"/>
+<table width="100%">
+<tr>
 
-<br><br>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+<br>
+<sub><b>C</b></sub>
+</td>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" title="Java"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+<br>
+<sub><b>C++</b></sub>
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+<br>
+<sub><b>Python</b></sub>
+</td>
 
-`C` `C++` `Python`
+</tr>
 
-`JavaScript` `TypeScript` `Java`
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+<br>
+<sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+<br>
+<sub><b>TypeScript</b></sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+<br>
+<sub><b>Java</b></sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 </td>
 
-<!-- Web Development -->
+<!-- ================= WEB DEVELOPMENT ================= -->
 
-<td width="25%" align="center" valign="top">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 🌐 Web Development
 
 <br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" title="HTML5"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" title="CSS3"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
+<table width="100%">
+<tr>
 
-<br><br>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+<br>
+<sub><b>HTML5</b></sub>
+</td>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" title="Node.js"/>
-&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" title="Tailwind CSS"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+<br>
+<sub><b>CSS3</b></sub>
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+<br>
+<sub><b>JavaScript</b></sub>
+</td>
 
-`HTML5` `CSS3` `JavaScript`
+</tr>
 
-`React` `Node.js` `Tailwind`
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+<br>
+<sub><b>React</b></sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+<br>
+<sub><b>Node.js</b></sub>
+</td>
+
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS"/>
+<br>
+<sub><b>Tailwind CSS</b></sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 </td>
 
-<!-- Databases & Cloud -->
+</tr>
 
-<td width="25%" align="center" valign="top">
+<tr>
+
+<!-- ================= DATABASES & CLOUD ================= -->
+
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 🗄️ Databases & Cloud
 
 <br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" title="MongoDB"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="MySQL"/>
+<table width="100%">
+<tr>
 
-<br><br>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
+<br>
+<sub><b>MongoDB</b></sub>
+</td>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="48" title="Firebase"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="58" title="AWS"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+<br>
+<sub><b>MySQL</b></sub>
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase"/>
+<br>
+<sub><b>Firebase</b></sub>
+</td>
 
-`MongoDB` `MySQL`
+</tr>
 
-`Firebase` `AWS`
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="58" height="48" alt="AWS"/>
+<br>
+<sub><b>AWS</b></sub>
+</td>
+
+<td></td>
+<td></td>
+
+</tr>
+</table>
+
+</div>
 
 </td>
 
-<!-- Tools -->
+<!-- ================= TOOLS ================= -->
 
-<td width="25%" align="center" valign="top">
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### ⚙️ Tools
 
 <br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" title="Git"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" title="GitHub"/>
+<table width="100%">
+<tr>
 
-<br><br>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+<br>
+<sub><b>Git</b></sub>
+</td>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" title="Figma"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+<br>
+<sub><b>GitHub</b></sub>
+</td>
 
-<br><br>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+<br>
+<sub><b>VS Code</b></sub>
+</td>
 
-`Git` `GitHub`
+</tr>
 
-`VS Code` `Figma`
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
+<br>
+<sub><b>Figma</b></sub>
+</td>
+
+<td></td>
+<td></td>
+
+</tr>
+</table>
+
+</div>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
