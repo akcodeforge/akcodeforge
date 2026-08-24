@@ -237,18 +237,10 @@ An AI-powered project focused on providing users with an interactive health-assi
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 Contribution Streak & 📅 My GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akcodeforge&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akcodeforge&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -338,18 +330,6 @@ AI-driven self-improvement platform focused on habits, motivation and personal g
 `Greedy` • `Recursion` • `Backtracking` • `Dynamic Programming`
 
 `Graphs` • `Segment Trees` • `Prefix Sum` • `Math`
-
----
-
-# 📅 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akcodeforge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akcodeforge&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
